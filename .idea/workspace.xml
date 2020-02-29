@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="adbfe0c8-cc0e-4189-b2c9-89dd86d5e71e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Logout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Logout.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +21,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YUGxMdigBYFitvlIqoi7iQa4Bi" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -96,25 +99,25 @@
       <screen x="0" y="23" width="1366" height="667" />
     </state>
     <state x="283" y="24" key="#Project_Structure/0.23.1366.667@0.23.1366.667" timestamp="1582990021596" />
-    <state x="100" y="130" width="1166" height="460" key="DiffContextDialog" timestamp="1582991321095">
+    <state x="100" y="130" width="1166" height="460" key="DiffContextDialog" timestamp="1582994216259">
       <screen x="0" y="23" width="1366" height="667" />
     </state>
-    <state x="100" y="130" width="1166" height="460" key="DiffContextDialog/0.23.1366.667@0.23.1366.667" timestamp="1582991321095" />
-    <state width="1324" height="159" key="GridCell.Tab.0.bottom" timestamp="1582990250621">
+    <state x="100" y="130" width="1166" height="460" key="DiffContextDialog/0.23.1366.667@0.23.1366.667" timestamp="1582994216259" />
+    <state width="1366" height="165" key="GridCell.Tab.0.bottom" timestamp="1582991345234">
       <screen x="0" y="23" width="1366" height="667" />
     </state>
-    <state width="1324" height="159" key="GridCell.Tab.0.bottom/0.23.1366.667@0.23.1366.667" timestamp="1582990250621" />
-    <state width="1324" height="159" key="GridCell.Tab.0.center" timestamp="1582990250619">
+    <state width="1366" height="165" key="GridCell.Tab.0.bottom/0.23.1366.667@0.23.1366.667" timestamp="1582991345234" />
+    <state width="1366" height="165" key="GridCell.Tab.0.center" timestamp="1582991345233">
       <screen x="0" y="23" width="1366" height="667" />
     </state>
-    <state width="1324" height="159" key="GridCell.Tab.0.center/0.23.1366.667@0.23.1366.667" timestamp="1582990250619" />
-    <state width="1324" height="159" key="GridCell.Tab.0.left" timestamp="1582990250619">
+    <state width="1366" height="165" key="GridCell.Tab.0.center/0.23.1366.667@0.23.1366.667" timestamp="1582991345233" />
+    <state width="1366" height="165" key="GridCell.Tab.0.left" timestamp="1582991345232">
       <screen x="0" y="23" width="1366" height="667" />
     </state>
-    <state width="1324" height="159" key="GridCell.Tab.0.left/0.23.1366.667@0.23.1366.667" timestamp="1582990250619" />
-    <state width="1324" height="159" key="GridCell.Tab.0.right" timestamp="1582990250620">
+    <state width="1366" height="165" key="GridCell.Tab.0.left/0.23.1366.667@0.23.1366.667" timestamp="1582991345232" />
+    <state width="1366" height="165" key="GridCell.Tab.0.right" timestamp="1582991345233">
       <screen x="0" y="23" width="1366" height="667" />
     </state>
-    <state width="1324" height="159" key="GridCell.Tab.0.right/0.23.1366.667@0.23.1366.667" timestamp="1582990250620" />
+    <state width="1366" height="165" key="GridCell.Tab.0.right/0.23.1366.667@0.23.1366.667" timestamp="1582991345233" />
   </component>
 </project>
